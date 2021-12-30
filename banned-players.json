@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "a1781ec0-412a-4c0e-bcb9-5fb9b62b9251",
+    "name": "Ravlir",
+    "created": "2021-12-23 22:11:13 +0000",
+    "source": "Vergeance",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
