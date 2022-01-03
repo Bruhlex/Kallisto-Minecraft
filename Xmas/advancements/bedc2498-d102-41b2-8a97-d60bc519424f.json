@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-12-25 10:03:12 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2021-12-25 17:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-01-02 19:10:03 +0000"
     },
     "done": true
   },
@@ -233,9 +245,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-12-25 17:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-01-02 19:14:19 +0000"
     },
     "done": true
   },
@@ -247,15 +271,23 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-01-02 18:50:00 +0000",
       "baked_potato": "2021-12-25 10:05:46 +0000",
       "melon_slice": "2021-12-25 14:54:54 +0000",
-      "cooked_chicken": "2021-12-25 15:25:49 +0000"
+      "cooked_chicken": "2021-12-25 15:25:49 +0000",
+      "carrot": "2022-01-02 19:27:45 +0000"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-12-25 10:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-01-02 19:11:33 +0000"
     },
     "done": true
   },
@@ -397,6 +429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-01-02 19:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-12-25 10:06:54 +0000"
@@ -466,6 +504,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-12-25 09:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
     },
     "done": true
   },
@@ -555,6 +599,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:piglin": "2022-01-02 19:25:51 +0000",
       "minecraft:zombie": "2021-12-25 10:38:49 +0000"
     },
     "done": false
@@ -562,6 +607,18 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2021-12-25 17:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-01-02 19:10:03 +0000"
     },
     "done": true
   },
@@ -640,6 +697,24 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-12-25 09:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-01-02 19:11:33 +0000"
     },
     "done": true
   },
@@ -811,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2021-12-25 09:59:19 +0000"
@@ -850,6 +931,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-12-25 17:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2022-01-02 19:09:26 +0000"
     },
     "done": true
   },
@@ -907,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-25 09:59:44 +0000"
@@ -916,6 +1009,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2021-12-25 17:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
     },
     "done": true
   },
@@ -1032,6 +1131,7 @@
       "minecraft:taiga": "2021-12-25 15:39:50 +0000",
       "minecraft:birch_forest": "2021-12-24 22:17:50 +0000",
       "minecraft:dark_forest": "2021-12-25 17:56:00 +0000",
+      "minecraft:dripstone_caves": "2022-01-02 20:02:19 +0000",
       "minecraft:grove": "2021-12-25 09:54:18 +0000",
       "minecraft:jagged_peaks": "2021-12-25 09:55:08 +0000",
       "minecraft:forest": "2021-12-25 10:42:23 +0000",
@@ -1100,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-12-25 09:52:58 +0000"
@@ -1148,6 +1254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-01-02 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2021-12-25 17:48:57 +0000"
@@ -1187,6 +1299,18 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-12-25 10:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-01-02 19:10:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2022-01-02 19:09:26 +0000"
     },
     "done": true
   },

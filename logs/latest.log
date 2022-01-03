@@ -1,112 +1,37 @@
-[00:20:34] [User Authenticator #17/INFO]: UUID of player Lionex is 7642780a-c237-41e1-b248-aaa49e8d14a9
-[00:20:34] [Server thread/INFO]: Lionex joined the game
-[00:20:34] [Server thread/INFO]: Lionex[/91.35.17.38:55424] logged in with entity id 264605 at ([Xmas]-340.51947030853444, 92.0, 340.8934556073041)
-[00:27:33] [Server thread/INFO]: Lionex has made the advancement [Bring Home the Beacon]
-[00:34:11] [Server thread/INFO]: Michel_k lost connection: Disconnected
-[00:34:11] [Server thread/INFO]: Michel_k left the game
-[00:34:18] [User Authenticator #18/INFO]: UUID of player Michel_k is d711dcb7-1598-4fe4-a00f-5bf738ee04b2
-[00:34:18] [Server thread/INFO]: Michel_k joined the game
-[00:34:18] [Server thread/INFO]: Michel_k[/92.116.225.72:2594] logged in with entity id 267389 at ([Xmas]-272.37373519475744, 65.0, 365.0137940782684)
-[00:37:25] [Server thread/WARN]: Lionex moved wrongly!
-[00:42:43] [Server thread/INFO]: Lionex issued server command: /tp lionex Michel_k
-[00:42:43] [Server thread/INFO]: [Lionex: Teleported Lionex to Michel_k]
-[00:44:10] [Server thread/WARN]: Lionex moved wrongly!
-[00:44:10] [Server thread/WARN]: Lionex moved wrongly!
-[00:45:27] [Async Chat Thread - #11/INFO]: <Michel_k> tp Lionex
-[00:45:32] [Async Chat Thread - #11/INFO]: <Michel_k> 7tp Lionex
-[01:02:14] [Server thread/INFO]: Lionex has made the advancement [Hot Stuff]
-[01:09:58] [Server thread/INFO]: Lionex issued server command: /gamemode creative
-[01:09:58] [Server thread/INFO]: [Lionex: Set own game mode to Creative Mode]
-[01:10:19] [Server thread/INFO]: Lionex issued server command: /gamemode survival
-[01:10:19] [Server thread/INFO]: [Lionex: Set own game mode to Survival Mode]
-[01:23:50] [Server thread/INFO]: Lionex issued server command: /gamemode creative
-[01:23:50] [Server thread/INFO]: [Lionex: Set own game mode to Creative Mode]
-[01:24:06] [Server thread/INFO]: Villager EntityVillager['Villager'/282038, uuid='3fd64cb7-dfbf-4346-8159-f2bc880b2677', l='ServerLevel[Xmas]', x=-316.67, y=102.00, z=267.77, cpos=[-20, 16], tl=143, v=true] died, message: 'Villager hit the ground too hard whilst trying to escape Lionex'
-[01:24:12] [Server thread/INFO]: Villager EntityVillager['Villager'/282037, uuid='582851e1-1d90-47f7-811f-7f3ebe5a56d6', l='ServerLevel[Xmas]', x=-307.50, y=102.00, z=282.36, cpos=[-20, 17], tl=261, v=true] died, message: 'Villager was slain by Lionex using [butterfly fade]'
-[01:24:37] [Server thread/INFO]: Lionex issued server command: /gamemode creative
-[01:24:56] [Server thread/INFO]: Lionex issued server command: /gamemode survival
-[01:24:56] [Server thread/INFO]: [Lionex: Set own game mode to Survival Mode]
-[01:26:06] [Server thread/INFO]: Lionex issued server command: /gamemode spectator
-[01:26:06] [Server thread/INFO]: [Lionex: Set own game mode to Spectator Mode]
-[01:26:32] [Server thread/INFO]: Lionex issued server command: /gamemode survival
-[01:26:32] [Server thread/INFO]: [Lionex: Set own game mode to Survival Mode]
-[01:28:36] [Server thread/INFO]: Lionex issued server command: /gamemode creative
-[01:28:36] [Server thread/INFO]: [Lionex: Set own game mode to Creative Mode]
-[01:28:42] [Server thread/INFO]: Lionex issued server command: /gamemode survival
-[01:28:42] [Server thread/INFO]: [Lionex: Set own game mode to Survival Mode]
-[01:31:21] [Server thread/INFO]: Lionex issued server command: /gamemode creative
-[01:31:21] [Server thread/INFO]: [Lionex: Set own game mode to Creative Mode]
-[01:31:28] [Server thread/INFO]: Lionex issued server command: /gamemode survival
-[01:31:28] [Server thread/INFO]: [Lionex: Set own game mode to Survival Mode]
-[01:31:39] [Server thread/INFO]: Lionex issued server command: /time set day
-[01:31:39] [Server thread/INFO]: [Lionex: Set the time to 1000]
-[01:38:12] [Server thread/INFO]: Lionex issued server command: /gamemode creative
-[01:38:12] [Server thread/INFO]: [Lionex: Set own game mode to Creative Mode]
-[01:38:37] [Server thread/INFO]: Lionex issued server command: /gamemode survival
-[01:38:37] [Server thread/INFO]: [Lionex: Set own game mode to Survival Mode]
-[01:38:55] [Server thread/INFO]: Villager EntityVillager['Fisherman'/282138, uuid='4b9e887d-bb13-4dd4-80d2-711f03b4e6ac', l='ServerLevel[Xmas]', x=-333.52, y=93.00, z=360.53, cpos=[-21, 22], tl=17384, v=true] died, message: 'Fisherman was slain by Michel_k'
-[01:39:05] [Server thread/INFO]: Villager EntityVillager['Villager'/285712, uuid='08f1a8fa-8630-46bc-879b-00b2af14506b', l='ServerLevel[Xmas]', x=-309.70, y=115.00, z=265.30, cpos=[-20, 16], tl=55, v=true] died, message: 'Villager was slain by Lionex using [butterfly fade]'
-[01:39:11] [Server thread/INFO]: Villager EntityVillager['Cleric'/236, uuid='6aa8ee01-b0c3-476b-a580-5e270040ba7c', l='ServerLevel[Xmas]', x=-339.23, y=93.00, z=362.70, cpos=[-22, 22], tl=11271461, v=true] died, message: 'Cleric was slain by Michel_k'
-[01:39:51] [Server thread/INFO]: Lionex issued server command: /time set night
-[01:39:51] [Server thread/INFO]: [Lionex: Set the time to 13000]
-[01:45:14] [Server thread/INFO]: Lionex issued server command: /gamemode creative
-[01:45:14] [Server thread/INFO]: [Lionex: Set own game mode to Creative Mode]
-[01:45:45] [Server thread/INFO]: Lionex issued server command: /gamemode survival
-[01:45:45] [Server thread/INFO]: [Lionex: Set own game mode to Survival Mode]
-[01:46:48] [Server thread/INFO]: Lionex issued server command: /tp lionex Michel_k
-[01:46:48] [Server thread/INFO]: [Lionex: Teleported Lionex to Michel_k]
-[01:47:00] [Server thread/INFO]: Lionex issued server command: /tp lionex Michel_k
-[01:47:00] [Server thread/INFO]: [Lionex: Teleported Lionex to Michel_k]
-[01:47:00] [Server thread/WARN]: Lionex moved too quickly! 1.3269110743112265,15.0,0.0547069030072862
-[02:05:21] [Server thread/INFO]: Lionex has reached the goal [Beaconator]
-[02:12:04] [Server thread/WARN]: Lionex moved wrongly!
-[02:12:59] [Server thread/INFO]: Lionex issued server command: /weather clear
-[02:12:59] [Server thread/INFO]: [Lionex: Set the weather to clear]
-[02:16:53] [Server thread/INFO]: Lionex lost connection: Disconnected
-[02:16:53] [Server thread/INFO]: Lionex left the game
-[02:16:53] [Server thread/INFO]: Michel_k lost connection: Disconnected
-[02:16:53] [Server thread/INFO]: Michel_k left the game
-[07:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
-[07:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[07:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
-[07:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5123ms or 102 ticks behind
-[07:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5163ms or 103 ticks behind
-[07:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7319ms or 146 ticks behind
-[07:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5240ms or 104 ticks behind
-[07:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
-[07:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
-[07:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
-[07:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9072ms or 181 ticks behind
-[07:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17705ms or 354 ticks behind
-[07:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21975ms or 439 ticks behind
-[07:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10340ms or 206 ticks behind
-[07:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25157ms or 503 ticks behind
-[07:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17668ms or 353 ticks behind
-[07:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31259ms or 625 ticks behind
-[07:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19934ms or 398 ticks behind
-[07:24:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11540ms or 230 ticks behind
-[07:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18931ms or 378 ticks behind
-[07:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38056ms or 761 ticks behind
-[07:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[07:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
-[07:34:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5212ms or 104 ticks behind
-[07:36:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[07:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
-[07:38:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38363ms or 767 ticks behind
-[07:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23815ms or 476 ticks behind
-[07:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
-[07:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5594ms or 111 ticks behind
-[07:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
-[07:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5086ms or 101 ticks behind
-[07:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5658ms or 113 ticks behind
-[07:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11187ms or 223 ticks behind
-[07:51:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5136ms or 102 ticks behind
-[07:51:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
-[07:53:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5066ms or 101 ticks behind
-[07:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[07:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5077ms or 101 ticks behind
-[07:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
-[07:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5065ms or 101 ticks behind
-[12:49:28] [User Authenticator #19/INFO]: UUID of player Vergeance is a0fbef52-46ba-4992-87ec-f0b7dc35b181
-[12:49:28] [Server thread/INFO]: Vergeance joined the game
-[12:49:28] [Server thread/INFO]: Vergeance[/91.35.10.166:60230] logged in with entity id 296453 at ([Xmas]-335.2535672911545, 124.0, 448.72878127958296)
+[01:42:44] [Async Chat Thread - #15/INFO]: <Michel_k> &shi
+[01:42:49] [Async Chat Thread - #15/INFO]: <Michel_k> &s
+[01:55:23] [Server thread/INFO]: Michel_k lost connection: Disconnected
+[01:55:26] [Server thread/INFO]: Michel_k left the game
+[01:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7000ms or 140 ticks behind
+[09:15:00] [User Authenticator #13/INFO]: UUID of player yomilp is e779c01e-f524-4bff-bf41-c90a0b166f03
+[09:15:00] [Server thread/INFO]: yomilp joined the game
+[09:15:00] [Server thread/INFO]: yomilp[/88.217.180.115:51169] logged in with entity id 180616 at ([Xmas]-344.94689075374, 95.0, 364.2725559729367)
+[09:18:21] [Server thread/INFO]: yomilp has made the advancement [Eye Spy]
+[09:18:40] [Server thread/INFO]: yomilp has made the advancement [The End?]
+[09:32:20] [Server thread/INFO]: yomilp lost connection: Disconnected
+[09:32:20] [Server thread/INFO]: yomilp left the game
+[09:33:20] [User Authenticator #14/INFO]: UUID of player yomilp is e779c01e-f524-4bff-bf41-c90a0b166f03
+[09:33:20] [Server thread/INFO]: yomilp joined the game
+[09:33:20] [Server thread/INFO]: yomilp[/88.217.180.115:51118] logged in with entity id 188026 at ([Xmas_the_end]83.30000001192093, 58.0, -32.440124230485985)
+[09:46:42] [Server thread/INFO]: yomilp has made the advancement [What a Deal!]
+[10:31:31] [Server thread/INFO]: yomilp lost connection: Disconnected
+[10:31:31] [Server thread/INFO]: yomilp left the game
+[11:44:09] [User Authenticator #15/INFO]: UUID of player yomilp is e779c01e-f524-4bff-bf41-c90a0b166f03
+[11:44:09] [Server thread/INFO]: yomilp joined the game
+[11:44:09] [Server thread/INFO]: yomilp[/88.217.180.115:51088] logged in with entity id 208375 at ([Xmas]-431.5126577563147, 116.0, 428.6673199191146)
+[11:49:59] [Server thread/INFO]: yomilp lost connection: Disconnected
+[11:49:59] [Server thread/INFO]: yomilp left the game
+[12:05:33] [User Authenticator #16/INFO]: UUID of player yomilp is e779c01e-f524-4bff-bf41-c90a0b166f03
+[12:05:33] [Server thread/INFO]: yomilp joined the game
+[12:05:33] [Server thread/INFO]: yomilp[/88.217.180.115:51099] logged in with entity id 210152 at ([Xmas]-352.9617384498818, 103.5, 366.79429621294736)
+[12:12:41] [Server thread/INFO]: yomilp has made the advancement [Not Today, Thank You]
+[12:34:32] [Server thread/INFO]: yomilp lost connection: Disconnected
+[12:34:32] [Server thread/INFO]: yomilp left the game
+[12:35:57] [User Authenticator #17/INFO]: UUID of player yomilp is e779c01e-f524-4bff-bf41-c90a0b166f03
+[12:35:57] [Server thread/INFO]: yomilp joined the game
+[12:35:57] [Server thread/INFO]: yomilp[/88.217.180.115:51169] logged in with entity id 216546 at ([Xmas]-530.3000000119209, -56.0, 310.78753803148015)
+[12:52:54] [Server thread/INFO]: yomilp has made the advancement [Diamonds!]
+[12:53:12] [Server thread/INFO]: yomilp lost connection: Disconnected
+[12:53:12] [Server thread/INFO]: yomilp left the game
+[13:19:05] [Server thread/INFO]: Stopping server
+[13:19:05] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.11

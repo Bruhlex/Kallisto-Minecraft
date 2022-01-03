@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2021-12-30 17:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-12-17 20:04:37 +0000"
@@ -701,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-01-02 22:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-12-15 23:02:10 +0000"
@@ -907,6 +919,7 @@
       "minecraft:spider": "2021-12-15 20:59:09 +0000",
       "minecraft:piglin_brute": "2021-12-16 22:46:38 +0000",
       "minecraft:creeper": "2021-12-15 21:20:14 +0000",
+      "minecraft:wither": "2021-12-30 21:34:13 +0000",
       "minecraft:slime": "2021-12-17 16:08:43 +0000",
       "minecraft:evoker": "2021-12-17 20:21:18 +0000",
       "minecraft:phantom": "2021-12-19 21:33:47 +0000",
@@ -971,6 +984,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-12-15 21:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2021-12-30 17:31:55 +0000"
     },
     "done": true
   },
@@ -1220,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-12-30 18:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2021-12-15 21:28:22 +0000"
@@ -1349,6 +1374,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2021-12-28 20:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-12-30 13:13:55 +0000"
     },
     "done": true
   },
@@ -1880,6 +1911,8 @@
       "minecraft:lush_caves": "2021-12-18 03:26:53 +0000",
       "minecraft:desert": "2021-12-27 16:42:09 +0000",
       "minecraft:jungle": "2021-12-18 01:28:00 +0000",
+      "minecraft:ocean": "2021-12-30 17:07:46 +0000",
+      "minecraft:windswept_savanna": "2021-12-30 17:08:04 +0000",
       "minecraft:warm_ocean": "2021-12-27 16:44:48 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-12-29 23:47:45 +0000",
       "minecraft:flower_forest": "2021-12-15 23:48:00 +0000",
@@ -2298,6 +2331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2021-12-30 17:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-12-15 22:49:32 +0000"
@@ -2322,6 +2361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2022-01-02 23:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2021-12-16 17:16:19 +0000"
@@ -2343,6 +2388,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-12-15 22:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2022-01-02 23:56:19 +0000"
     },
     "done": true
   },
@@ -2553,6 +2604,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2021-12-25 23:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-12-30 13:13:55 +0000"
     },
     "done": true
   },
@@ -2839,6 +2896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2022-01-02 23:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-12-15 20:53:05 +0000"
@@ -2884,6 +2947,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2021-12-15 22:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-12-30 13:58:38 +0000"
     },
     "done": true
   },
@@ -2973,6 +3042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-12-30 14:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2021-12-15 21:02:09 +0000"
@@ -3012,6 +3087,12 @@
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2021-12-16 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-12-30 18:00:07 +0000"
     },
     "done": true
   },
@@ -3831,6 +3912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-12-30 13:58:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2021-12-16 22:50:33 +0000"
@@ -3990,6 +4077,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-18 21:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2022-01-03 01:48:32 +0000"
     },
     "done": true
   },
